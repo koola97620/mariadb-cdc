@@ -1,3 +1,5 @@
+package mariadbcdc.binlog;
+
 import org.jdragon.MariaDbCdcConfig;
 import org.testcontainers.containers.MariaDBContainer;
 
